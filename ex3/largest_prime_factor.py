@@ -1,6 +1,3 @@
-
-
-
 """
 <Definition of prime number>:
 
